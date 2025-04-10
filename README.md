@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @siavash69h
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning project
+- 👋 Hi, I’m siavash
 - 📫 How to reach me siavash69.h@gmail.com
 
 <!---
